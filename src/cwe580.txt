@@ -1,0 +1,3 @@
+testcases\CWE580_Clone_Without_Super\CWE580_Clone_Without_Super__clone_01a.java
+testcases\CWE580_Clone_Without_Super\CWE580_Clone_Without_Super__clone_01_bad.java
+testcases\CWE580_Clone_Without_Super\CWE580_Clone_Without_Super__clone_01_good1.java

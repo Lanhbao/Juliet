@@ -1,0 +1,1 @@
+testcases\CWE248_Uncaught_Exception\CWE248_Uncaught_Exception__Error_01.java

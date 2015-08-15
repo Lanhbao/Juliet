@@ -1,0 +1,2 @@
+testcases\CWE582_Array_Public_Final_Static\CWE582_Array_Public_Final_Static__basic_01_bad.java
+testcases\CWE582_Array_Public_Final_Static\CWE582_Array_Public_Final_Static__basic_01_good1.java

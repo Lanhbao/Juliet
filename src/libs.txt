@@ -1,0 +1,11 @@
+-cp ..\lib\servlet-api.jar;..\lib\commons-lang-2.5.jar;..\lib\commons-codec-1.5.jar;..\lib\javamail-1.4.4.jar
+testcasesupport\IO.java
+testcasesupport\AbstractTestCaseBase.java
+testcasesupport\AbstractTestCase.java
+testcasesupport\AbstractTestCaseBadOnly.java
+testcasesupport\AbstractTestCaseServletBase.java
+testcasesupport\AbstractTestCaseServlet.java
+testcasesupport\AbstractTestCaseServletBadOnly.java
+testcasesupport\AbstractTestCaseClassIssue.java
+testcasesupport\AbstractTestCaseClassIssueBad.java
+testcasesupport\AbstractTestCaseClassIssueGood.java

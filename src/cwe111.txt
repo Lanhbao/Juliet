@@ -1,0 +1,1 @@
+testcases\CWE111_Unsafe_JNI\CWE111_Unsafe_JNI__console_01.java

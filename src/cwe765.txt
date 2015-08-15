@@ -1,0 +1,2 @@
+testcases\CWE765_Multiple_Unlocks\CWE765_Multiple_Unlocks__ReentrantLock_Servlet_01.java
+testcases\CWE765_Multiple_Unlocks\CWE765_Multiple_Unlocks__ReentrantLock_Thread_01.java

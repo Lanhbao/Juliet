@@ -1,0 +1,1 @@
+testcases\CWE579_Non_Serializable_in_Session\CWE579_Non_Serializable_in_Session__Servlet_01.java

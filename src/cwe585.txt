@@ -1,0 +1,2 @@
+testcases\CWE585_Empty_Sync_Block\CWE585_Empty_Sync_Block__Servlet_01.java
+testcases\CWE585_Empty_Sync_Block\CWE585_Empty_Sync_Block__Thread_01.java
