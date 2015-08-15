@@ -1,0 +1,2 @@
+testcases\CWE491_Object_Hijack\CWE491_Object_Hijack__basic_01_bad.java
+testcases\CWE491_Object_Hijack\CWE491_Object_Hijack__basic_01_good1.java
