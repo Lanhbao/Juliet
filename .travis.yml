@@ -1,5 +1,5 @@
 language: java
-script: src/compileFiles.bat
+script: "src/compileFiles.bat"
 jdk:
   - openjdk7
 env:
