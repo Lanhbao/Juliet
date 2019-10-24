@@ -1,7 +1,7 @@
 language: java
 script: "src/compileFiles.bat"
 jdk:
-  - openjdk7
+  - openjdk11
 env:
   global:
    # The next declaration is the encrypted COVERITY_SCAN_TOKEN, created
