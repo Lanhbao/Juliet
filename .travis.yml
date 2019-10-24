@@ -17,6 +17,6 @@ addons:
       name: "Lanhbao/Juliet"
       description: "Build submitted via Travis CI"
     notification_email: anhtluet12@gmail.com
-    build_command_prepend:
+    build_command_prepend: "chmod +x src/compileFiles.bat"
     build_command:   "src/compileFiles.bat"
     branch_pattern: master
