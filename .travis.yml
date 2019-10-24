@@ -6,14 +6,14 @@ env:
   global:
    # The next declaration is the encrypted COVERITY_SCAN_TOKEN, created
    #   via the "travis encrypt" command using the project repo's public key
-   - secure: "1qyEqSThXRGIl4n9ASp/jS7jtIukwGsWWNGAVq63my7MVmWZlQ3TB0L+ERtln0WEaOyLmPFggwBYR5pAnL/UiYJMosXr4TYcUH2BrxPubk+80BKvkdUUzjKObANuFWFwdpNVE9KwEmPHrFFwGpfTJ4ptxAKwJCDEkS0vTii5bayfyh6qhyi02bD8/hRuEys2sIA/RxUZaMKlT95xEN0OccUw9MJG5P7W0JVcCTw3W/IBIoUBUFUwQviVK9vkF9PVw6dtHXN78QWVS2fbQF81kzcTzIH6JrfH02Gs/S8+OyXG916UvCSwmfHUh3gckFJcwbcbodwbjgLe8EJrPUaG+OZuYC7M6H7LbWDrr85cDf9cV39sfH+imH/8RoC3BVNJJ6zNzB80L9RSUHnIyJM8pQsnYHjwAJqC2wWEIrbT7xopXg97XRqQafoVYEXZj+AdGHJjxh0wwQVSadR+0uqGlx/oMf8i6eH5VyEyKUExVvdsXjn/u6Cb9DvK3QB6TFFSNrzwWsmpvYpcO2c6pup7MyVjaRv5EZH1TgdYKHbixK4FPvLbOKGYqhE6nFfzENvrCKuiezHRsGvDTerQwDjhMX5F2JKwKZJ6njiER/T3DD/ri1irs5QObwYWoTaZfYw5KHLIDAEhzNX8MV2ZD0Y0qlxlrIcz6G4SCrvzlcaHgc4="
+   - secure: "ra5DVV59K+wcj2H4P+VHA/YZEI4XaJukCYTRr53Eni8Op4ALxZ0IzaldZrNVNsJ2kAs6U+drgK5Ml/ptL2lDaXyz+sEYvOVih6HF7RQFEL6Lb/t80lre7dXxB8T8qhUicGMEUEMvjkntGzQw9kicID9K+MFud+1kxZrLhhWPaouGOl8UVCaWt4/M3iDCyPIM0MHN3r8R8AavYuQlfWT3kVOjSlXSQ6CiwYen37KlUpNJNcuGGmd6KnYtLez/ZWCZzUQN70axb4Dm43Hkay4qgFNcQiJKYXvDOdORCSJlymrvwaGRHtF3wwletOBOvEvO9XnW9R+uWEowRtcgGhNWV/q5juaS/nLj1fe2n3g3YEf+SRfhUUa3KJZlUDd2Swpe4A0jE6ZWpaGK1Yj9vPV8rkHlzWr28O0p9JCdC9gpWpxySlwO91GlYE8ND9aRFxj4aD45E7uy6PDreWfAK9o7V2bT7ukK/CjbGtmR2jZDS0mew7MiStbj86Hi1UBJTbN4m8CLVJ8ZluvOsa9WyHkS4IKfkh+9D+J3y4dBtVVKyCISTQ7aVIGAY+bSUCe8DjveXcsdxo+7PAUsZVDNy2ikctXWKPbcRKfE/VU5WBQgW0T2VHbDdprrWmfhgDt9FsWuLxUlHEU/hXUv7ww3ti7EhFlmJ3NEqHyo5oQ7VIFb6NQ="
 
 addons:
   coverity_scan:
     project:
-      name: "JulietTestSuite/Juliet"
+      name: "Lanhbao/Juliet"
       description: "Build submitted via Travis CI"
-    notification_email: stefanmatta@zoznam.sk
+    notification_email: anhtluet12@gmail.com
     build_command_prepend:
     build_command:   "src/compileFiles.bat"
     branch_pattern: coverity_scan
