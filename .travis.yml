@@ -7,7 +7,7 @@ env:
 addons:
   coverity_scan:
     project:
-      name: "JulietTestSuite/Juliet"
+      name: "Lanhbao/Juliet"
       description: "Build submitted via Travis CI"
     notification_email: anhtluet12@gmail.com
     build_command_prepend: 
